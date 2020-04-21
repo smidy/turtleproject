@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TurtleProject": {
+      "commandName": "Project",
+      "commandLineArgs": "Map.json Moves.json"
+    }
+  }
+}

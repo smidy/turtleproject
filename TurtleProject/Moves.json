@@ -1,0 +1,30 @@
+﻿[
+  [
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Rotate" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" }
+  ],
+  [
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Rotate" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" },
+    { "Case": "Move" }
+  ],
+  [
+    { "Case": "Move" },
+    { "Case": "Rotate" },
+    { "Case": "Move" }
+  ]
+]

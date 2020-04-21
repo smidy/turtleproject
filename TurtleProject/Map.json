@@ -1,0 +1,23 @@
+﻿{
+  "height": 6,
+  "width": 6,
+  "startDirection": { "Case": "East" },
+  "startTile": {
+    "X": 1,
+    "Y": 1
+  },
+  "exitTile": {
+    "X": 5,
+    "Y": 5
+  },
+  "bombs": [
+    {
+      "X": 2,
+      "Y": 2
+    },
+    {
+      "X": 3,
+      "Y": 3
+    }
+  ]
+}
