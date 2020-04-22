@@ -1,0 +1,3 @@
+﻿Assumptions made:
+	Inputs (json and command line args) are validated ahead of time (I didnt add constrained types .eg Game.Height must be positive and file inputs exist and are formatted correctly)
+	Out of bounds moves are ignored

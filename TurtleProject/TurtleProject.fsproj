@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="README" />
     <Content Include="Moves.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

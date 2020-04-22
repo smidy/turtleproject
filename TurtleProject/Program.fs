@@ -107,5 +107,5 @@ let main argv =
         match turtle.State with
             | Normal -> printfn("Still in danger!")
             | Exploded -> printfn("Mine hit!")
-            | Exited -> printfn("Success")
+            | Exited -> printfn("Success!")
     0
